@@ -1,5 +1,5 @@
 # Colorful Observable Universe
-This project showcases a colorful and interactive particle animation using the p5.js library. The animation creates a grid of particles that move based on Perlin noise and react to the mouse position. The background color changes dynamically to create a vibrant, rainbow-like effect. The intention was to emulate the observable universe, demonstrating how chaos and randomness naturally lends itself to certain universal patterns.
+This project showcases a colorful and interactive particle animation using the p5.js library. The animation creates a grid of particles that move based on Perlin noise and react to the mouse position. The background color changes dynamically to create a vibrant, surreal effect. The intention was to emulate the observable universe, demonstrating how chaos and randomness naturally lends itself to certain universal visual patterns.
 
 Features  
 - Dynamic Background: The background color cycles through the hues of the rainbow.  
