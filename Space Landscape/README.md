@@ -7,3 +7,6 @@ Dynamic Lighting: Real-time lighting effects with soft shadows.
 Interactive Camera: The camera and light positions can be controlled with the mouse.  
 
 You can view a live demo of the project on Shadertoy [here](https://www.shadertoy.com/view/DtKfRm).
+
+![Visualization](Space-Landscape-Vid.mp4).
+
