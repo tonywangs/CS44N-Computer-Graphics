@@ -1,5 +1,5 @@
 ## Space Landscape
-This project showcases a procedural space landscape using Shadertoy. The animation features a 3D rendered landscape with rolling hills, dynamic lighting, and realistic shadows, all generated using signed distance functions (SDFs) and ray marching techniques.
+This project showcases a procedural space landscape using Shadertoy. The animation features a 3D rendered landscape with rolling hills, dynamic lighting, and realistic shadows, all generated using signed distance functions (SDFs) and ray marching techniques. My inspiration was the landscapes of Star Wars. 
 
 Features  
 - Procedural Terrain: A dynamically generated landscape with rolling hills.  
