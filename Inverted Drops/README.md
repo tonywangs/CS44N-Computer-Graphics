@@ -7,6 +7,6 @@ Features
 - Upward Movement: Particles move upward, simulating an inverted drop effect.  
 - Automatic Cleanup: Particles are removed from the array once they move off the screen.  
 
-You can view a live demo of the project [here](https://openprocessing.org/sketch/2047762).
+You can view a live demo of the project on OpenProcessing [here](https://openprocessing.org/sketch/2047762).
 
 ![Visualization](Inverted-Drops-Vid.gif)
