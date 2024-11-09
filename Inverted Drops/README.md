@@ -1,5 +1,5 @@
 # Inverted Drops
-This project demonstrates an interactive particle system using the p5.js library. Particles are created as the user drags the mouse, and they move upward, giving the effect of inverted drops. Each particle is colored randomly and disappears when it reaches the top of the canvas. I was aesthetically inspired by the [Museum of Ice Cream](https://www.instagram.com/museumoficecream/)!  
+This project demonstrates an interactive particle system using the p5.js library. Particles are created as the user drags the mouse, and they move upward, giving the effect of inverted drops. Each particle is colored randomly and disappears when it reaches the top of the canvas. I was inspired by the [Museum of Ice Cream](https://www.instagram.com/museumoficecream/)!  
 
 Features  
 - Interactive Particle Creation: Particles are created by dragging the mouse across the canvas.  
