@@ -3,4 +3,10 @@ A repository of various projects created as a part of CS44N: Computer Graphics u
 
 Click on each project's folder to view more details.
 
-![Visualization](CS44N-Computer-Graphics/Trippy-Jack-O-Lantern/Trippy-Jack-O-Lantern-Vid.gif)
+![Visualization](Colorful Observable Universe/Colorful-Observable-Universe-Vid.gif)
+![Visualization](Inverted Drops/Inverted-Drops-Vid.gif)
+![Visualization]()
+![Visualization]()
+![Visualization]()
+![Visualization]()
+
