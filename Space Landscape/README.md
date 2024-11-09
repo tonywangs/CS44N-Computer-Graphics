@@ -8,5 +8,5 @@ Interactive Camera: The camera and light positions can be controlled with the mo
 
 You can view a live demo of the project on Shadertoy [here](https://www.shadertoy.com/view/DtKfRm).
 
-![Visualization](Space-Landscape-Vid.mp4).
+![Visualization](Space-Landscape-Vid.mov).
 
