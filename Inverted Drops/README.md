@@ -9,3 +9,4 @@ Features
 
 You can view a live demo of the project [here](https://openprocessing.org/sketch/2047762).
 
+![Visualization](Inverted-Drops-Vid.gif)
