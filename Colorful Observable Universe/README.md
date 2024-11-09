@@ -8,4 +8,4 @@ Reset Functionality: Clicking the mouse resets the particle grid.
 
 You can view a live demo of the piece on OpenProcessing [here](https://openprocessing.org/sketch/2088565). 
 
-![Visualization](image)
+![Visualization](Colorful-Observable-Universe-Vid.mp4).
