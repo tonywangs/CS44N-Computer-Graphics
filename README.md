@@ -1,5 +1,5 @@
 # CS44N-Computer-Graphics
-A repository of creative explorations in computational graphics. Created as a part of ["CS44N: Great Ideas in Graphics"](https://sites.google.com/stanford.edu/stanfordcs44n2023) under Professor Doug James. 
+A repository of creative explorations in computational graphics. Created as a part of "[CS44N: Great Ideas in Graphics](https://sites.google.com/stanford.edu/stanfordcs44n2023)" under Professor Doug James. 
 
 Check out each project folder to view further insights into the concepts and techniques behind these visualizations. 
 
