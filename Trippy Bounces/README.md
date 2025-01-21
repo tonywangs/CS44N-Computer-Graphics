@@ -7,6 +7,6 @@ Features
 - Interactive Particles: Particles bounce around the canvas and change direction upon collision.  
 - Random Colors and Sizes: Each particle is assigned a random color and size.  
 
-You can view a live demo of the project [here](https://openprocessing.org/sketch/2058228).
+You can view a live demo of the project on OpenProcessing [here](https://openprocessing.org/sketch/2058228).
 
 ![Visualization](Trippy-Bounces-Vid.gif).
